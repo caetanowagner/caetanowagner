@@ -1,15 +1,13 @@
 Wagner Caetano
-Engenheiro de controle e automação
-Tenho experiência na área de projetos elétricos e automação.
-Conhecimento em redes industriais, programação de CLP's, IHM's e sistema Scada.
-
+Engenheiro de controle e automação.
+Tenho experiência na área de projetos elétricos e automação, redes industriais, programação de CLP's, IHM's e sistema Scada.
 
 ✨Áreas de Interesse
 
 Big Data
 Modelagem e otimização (Redes neurais, visão computacional, algoritmo genético, programação linear, etc)
 Sistemas SCADA
-Backend (C#, Python)
+Backend dev (C#, Python)
 SGBD
 Sistemas Embarcados
 Sistemas operacionais de tempo Real
