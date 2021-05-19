@@ -1,4 +1,5 @@
-✨Wagner Caetano
+Wagner Caetano
+
 Engenheiro de controle e automação.
 Tenho experiência na área de projetos elétricos e automação, redes industriais, programação de CLP's, IHM's e sistema Scada.
 
