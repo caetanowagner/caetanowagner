@@ -7,7 +7,7 @@ Tenho experiência na área de projetos elétricos e automação, redes industri
 ✨Áreas de Interesse
 
 Big Data
-\nModelagem e otimização (Redes neurais, visão computacional, algoritmo genético, programação linear, etc)
+  Modelagem e otimização (Redes neurais, visão computacional, algoritmo genético, programação linear, etc)
 
 Sistemas SCADA
 
