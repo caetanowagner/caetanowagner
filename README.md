@@ -11,7 +11,8 @@ Big Data
 
 Sistemas SCADA
 
-Backend dev (C#, Python)
+Backend dev (C#, Python, Java)
+Mobile Dev (Flutter)
 
 SGBD
 
@@ -24,7 +25,6 @@ Internet das Coisas
 Desenvolvimento de produtos
 
 Open hardware
-
 
 💌 Contato
 
